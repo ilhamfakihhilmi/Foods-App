@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051167119546",
+    "project_id": "fakih-food-app",
+    "storage_bucket": "fakih-food-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051167119546:android:5b084a4e43ebec0e510a83",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9ZhKw13RUzdCD2_hmX2xz_FgDNBFpEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
